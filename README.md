@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Analyst Projects:</h2>
 
- - Azure Honeypot: Real-World Attack Telemetry Capture https://github.com/ElijahWhite777/Azure-sentinel-honeypot-project
+ - Azure Honeypot project: Real-World Attack Telemetry Capture https://github.com/ElijahWhite777/Azure-sentinel-honeypot-project
 
 - LetsDefend SIEM/Network Log Analysis Lab (https://github.com/ElijahWhite777:/PROJECTURL)
 
