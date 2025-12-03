@@ -4,7 +4,7 @@
 
  -Azure Honeypot: Real-World Attack Telemetry Capture https://github.com/ElijahWhite777/Azure-sentinel-honeypot-project
 
-LetsDefend SIEM/Network Log Analysis Lab (https://github.com/ElijahWhite777:/PROJECTURL)
+- LetsDefend SIEM/Network Log Analysis Lab (https://github.com/ElijahWhite777:/PROJECTURL)
 
  
 
