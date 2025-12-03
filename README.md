@@ -23,7 +23,7 @@ https://www.coursera.org/account/accomplishments/records/VDI9G27C0RPW
 Play is Safe: Manage Security Risks Google
 https://www.coursera.org/account/accomplishments/verify/XTLLWPE6K55Z
 
-Tools pf the Trade: Linux and SQL Google
+Tools of the Trade: Linux and SQL Google
 https://www.coursera.org/account/accomplishments/records/LWJ8JN7ZI4DQ
 
 <h2> 🤳 Connect with me:</h2>
