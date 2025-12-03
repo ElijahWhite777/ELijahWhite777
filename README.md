@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Analyst Projects:</h2>
 
- -Aure Honeypot: Real-World Attack Telemetry Capture https://github.com/ElijahWhite777/Azure-sentinel-honeypot-project
+ -Azure Honeypot: Real-World Attack Telemetry Capture https://github.com/ElijahWhite777/Azure-sentinel-honeypot-project
  
   -SQL Injection Detection & Log Analysis (https://github.com/ElijahWhite777:/PROJECTURL)
 
