@@ -2,17 +2,17 @@
 
 <h2>👨‍💻 Cybersecurity Analyst Projects:</h2>
 
- -Azure Honeypot: Real-World Attack Telemetry Capture https://github.com/ElijahWhite777/Azure-sentinel-honeypot-project
+ - Azure Honeypot: Real-World Attack Telemetry Capture https://github.com/ElijahWhite777/Azure-sentinel-honeypot-project
 
 - LetsDefend SIEM/Network Log Analysis Lab (https://github.com/ElijahWhite777:/PROJECTURL)
 
  
 
-  -TryHackMe DNS Exfiltration Detection Lab (https://github.com/ElijahWhite777:/PROJECTURL)
+  - TryHackMe DNS Exfiltration Detection Lab (https://github.com/ElijahWhite777:/PROJECTURL)
 
-  -TryHackMe Phishing Investigation Lab (https://github.com/ElijahWhite777:/PROJECTURL)
+  - TryHackMe Phishing Investigation Lab (https://github.com/ElijahWhite777:/PROJECTURL)
 
-  -SQL Injection Detection & Log Analysis (https://github.com/ElijahWhite777:/PROJECTURL)
+  - SQL Injection Detection & Log Analysis (https://github.com/ElijahWhite777:/PROJECTURL)
 
  <h2> - Certifications</h2>  
 Connections and Protect: Networks and Network Security Google
