@@ -8,6 +8,10 @@
 
   -Active Directory Home Lab (https://github.com/ElijahWhite777:/PROJECTURL)
 
+  -TryHackMe DNS Exfiltration Detection Lab (https://github.com/ElijahWhite777:/PROJECTURL)
+
+  -TryHackMe Phishing Investigation Lab (https://github.com/ElijahWhite777:/PROJECTURL)
+
  <h2> - Certifications</h2>  
 Connections and Protect: Networks and Network Security Google
 
