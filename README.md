@@ -6,7 +6,7 @@
  
   -SQL Injection Detection & Log Analysis (https://github.com/ElijahWhite777:/PROJECTURL)
 
-  -Active Directory Home Lab (https://github.com/ElijahWhite777:/PROJECTURL)
+ 
 
   -TryHackMe DNS Exfiltration Detection Lab (https://github.com/ElijahWhite777:/PROJECTURL)
 
