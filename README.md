@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
- -Aure Honeypot:Real-World Attack Telemetry Capture (https://github.com/ElijahWhite777:/PROJECTURL)
+ -Aure Honeypot:Real-World Attack Telemetry Capture 
  
   -SQL Injection Detection & Log Analysis (https://github.com/ElijahWhite777:/PROJECTURL)
 
