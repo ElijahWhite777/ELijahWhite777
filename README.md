@@ -1,6 +1,6 @@
 <h1>Hi, I'm Elijah! Cybersecurity Cloud Security| Ai Security 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity analyst projects:</h2>
 
  -Aure Honeypot: Real-World Attack Telemetry Capture https://github.com/ElijahWhite777/Azure-sentinel-honeypot-project
  
