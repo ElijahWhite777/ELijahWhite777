@@ -4,11 +4,11 @@
 
  - Azure Honeypot project: Real-World Attack Telemetry Capture https://github.com/ElijahWhite777/Azure-sentinel-honeypot-project
 
+ - DNS Exfiltration & PowerShell Abuse — TryHackMe SOC Investigation https://github.com/ElijahWhite777/TryHackMe-DNS-Exfiltration-Detection-Lab-Splunk-/tree/main
+
+
 - LetsDefend SIEM/Network Log Analysis Lab (https://github.com/ElijahWhite777:/PROJECTURL)
-
- 
-
- - TryHackMe DNS Exfiltration Detection Lab (Using Splunk) https://github.com/ElijahWhite777/TryHackMe-DNS-Exfiltration-Detection-Lab-Splunk-/tree/main
+- 
 
  - TryHackMe Phishing Investigation Lab (https://github.com/ElijahWhite777:/PROJECTURL)
  
