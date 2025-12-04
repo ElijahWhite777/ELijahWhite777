@@ -8,7 +8,7 @@
 
  
 
- - TryHackMe DNS Exfiltration Detection Lab (Using Splunk) (https://github.com/ElijahWhite777:/PROJECTURL)
+ - TryHackMe DNS Exfiltration Detection Lab (Using Splunk) https://github.com/ElijahWhite777/TryHackMe-DNS-Exfiltration-Detection-Lab-Splunk-/tree/main
 
  - TryHackMe Phishing Investigation Lab (https://github.com/ElijahWhite777:/PROJECTURL)
  
