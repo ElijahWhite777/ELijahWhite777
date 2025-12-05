@@ -25,8 +25,6 @@ Tools of the Trade: Linux and SQL Google
 https://www.coursera.org/account/accomplishments/records/LWJ8JN7ZI4DQ
 
 <h2> 🤳 Connect with me:</h2>
-
-
 [linkedin]: https://linkedin.com/in/elijah-white
 
 
