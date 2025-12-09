@@ -6,7 +6,7 @@
 
  - DNS Exfiltration & PowerShell Abuse — TryHackMe SOC Investigation https://github.com/ElijahWhite777/TryHackMe-DNS-Exfiltration-Detection-Lab-Splunk-/tree/main
 
-- Malware Analysis Lab - LetsDefend
+- Independent-Malware-Analysis-AgentTesla
 
 
 
