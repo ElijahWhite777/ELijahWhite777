@@ -8,7 +8,7 @@
 
 - Independent-Malware-Analysis-AgentTesla https://github.com/ElijahWhite777/Independent-Malware-Analysis-AgentTesla/blob/main/README.md
 
- - Phishing Incident Investigation – SOC Simulation (TryHackMe) https://github.com/ElijahWhite777/Phishing-Incident-Investigation-SOC-Simulation-TryHackMe-/blob/main/README.md
+ - Phishing Incident Investigation MITRE ATT&CK & NIST CSF Mapping  – SOC Simulation (TryHackMe) https://github.com/ElijahWhite777/Phishing-Incident-Investigation-SOC-Simulation-TryHackMe-/blob/main/README.md
 
 
  <h2> - Certifications</h2>  
