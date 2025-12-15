@@ -8,6 +8,7 @@
 
 - Independent-Malware-Analysis-AgentTesla https://github.com/ElijahWhite777/Independent-Malware-Analysis-AgentTesla/blob/main/README.md
 
+ - Phishing Incident Investigation – SOC Simulation (TryHackMe)
 
 
  <h2> - Certifications</h2>  
