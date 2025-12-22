@@ -10,6 +10,11 @@
 
  - Phishing Incident Investigation MITRE ATT&CK & NIST CSF Mapping  – SOC Simulation (TryHackMe) https://github.com/ElijahWhite777/Phishing-Incident-Investigation-SOC-Simulation-TryHackMe-/blob/main/README.md
 
+ - AI-Assisted SOC Automation – SSH Brute Force Detection & Response
+
+
+
+
 
  <h2> - Certifications</h2>  
 Connections and Protect: Networks and Network Security Google
