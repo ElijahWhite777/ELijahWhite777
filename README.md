@@ -1,4 +1,4 @@
-<h1>Hi, I'm Elijah! Cybersecurity | Cloud Security | SOC Analyst | AI Security 
+<h1>Hi, I'm Elijah! IT | Cybersecurity | Cloud Security | SOC Analyst | AI Security 
 
 <h2>👨‍💻 Cybersecurity Analyst Projects:</h2>
 
