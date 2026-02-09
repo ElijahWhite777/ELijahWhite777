@@ -1,4 +1,4 @@
-<h1>Hi, I'm Elijah - Cybersecurity Analyst specializing in Cloud SOC, AI-Assisted Detection, and Threat Response
+<h1>Hi, I'm Elijah - Cybersecurity Analyst specializing in Cloud SOC, AI-Assisted Detection, and Threat Response<h1></h1>
 
  I build real-world security enviornments focused on detection engineering, SIEM integration, and automated incident response across cloud and DevSecOps piplines.
 
