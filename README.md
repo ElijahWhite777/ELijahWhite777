@@ -1,4 +1,6 @@
-<h1>Hi, I'm Elijah!  Cybersecurity | Cloud Security | SOC Analyst | AI Security 
+<h1>Hi, I'm Elijah - Cybersecurity Analyst specializing in Cloud SOC, AI-Assisted Detection, and Threat Response
+
+ I build real-world security enviornments focused on detection engineering, SIEM integration, and automated incident response across cloud and DevSecOps piplines.
 
 <h2>👨‍💻 Cybersecurity Analyst Projects:</h2>
 
@@ -12,12 +14,15 @@
 
  - AI-Assisted SOC Automation Pipeline – SSH Brute Force Detection & Response https://github.com/ElijahWhite777/AI-Assisted-SOC-Automation-SSH-Brute-Force-Detection-Response
 
- - Zero trust AI Cloud Soc (completed, will be up shortly)
+ - Zero trust AI Cloud Soc Enterprise-scale identity-correlated detection platform (repo publishing soon)
 
- - AI Secure CI/CD Pipline (completed, will be up shortly)
+ - AI Secure CI/CD Pipline - DevSecOps telemetry & AI security gate architecture (repo publishing soon)
 
+ <h2> Technologies % Platforms </h2>
 
-
+Azure • Microsoft Sentinel • KQL • Python • PowerShell  
+GitHub Actions • CI/CD Security Gates • MITRE ATT&CK  
+SIEM Detection Engineering • Threat Analysis • Automation
 
  <h2> - Certifications</h2>  
 Connections and Protect: Networks and Network Security Google
