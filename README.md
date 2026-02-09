@@ -18,7 +18,7 @@
 
  - AI Secure CI/CD Pipline - DevSecOps telemetry & AI security gate architecture (repo publishing soon)
 
- <h2> Technologies % Platforms </h2>
+ <h2> Technologies & Platforms </h2>
 
 Azure • Microsoft Sentinel • KQL • Python • PowerShell  
 GitHub Actions • CI/CD Security Gates • MITRE ATT&CK  
