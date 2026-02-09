@@ -14,7 +14,7 @@
 
  - AI-Assisted SOC Automation Pipeline – SSH Brute Force Detection & Response https://github.com/ElijahWhite777/AI-Assisted-SOC-Automation-SSH-Brute-Force-Detection-Response
 
- - Zero trust AI Cloud Soc Enterprise-scale identity-correlated detection platform (repo publishing soon)
+ - Zero Trust AI Cloud Soc Enterprise-scale identity-correlated detection platform (repo publishing soon)
 
  - AI Secure CI/CD Pipline - DevSecOps telemetry & AI security gate architecture (repo publishing soon)
 
