@@ -16,7 +16,7 @@
 
  - Zero Trust AI Cloud Soc Enterprise-scale identity-correlated detection platform (repo publishing soon)
 
- - AI Secure CI/CD Pipline - DevSecOps telemetry & AI security gate architecture (repo publishing soon)
+ - AI Secure CI/CD Pipeline — DevSecOps telemetry & AI security gate architecture https://github.com/ElijahWhite777/azure-cicd-python
 
  <h2> Technologies & Platforms </h2>
 
